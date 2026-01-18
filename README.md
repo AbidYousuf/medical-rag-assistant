@@ -246,3 +246,4 @@ python -m tests.test_rag_llm
 
 3️⃣ Launch UI
 streamlit run app/app.py
+------>Local URL: http://localhost:8501------->
